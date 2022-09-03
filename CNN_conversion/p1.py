@@ -20,7 +20,7 @@ from tensorflow.keras.optimizers import SGD, Adam
 
 
 
-class malicious:
+class convert:
     
     def __init__(self, data, targets):
         self.data = data
